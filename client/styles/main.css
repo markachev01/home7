@@ -8,4 +8,9 @@ body {
 .header {
   background-color: #000;
   width: 100%;
+}
+
+.container {
+  width: 1024px;
+  color: #000;
 }/*# sourceMappingURL=main.css.map */
